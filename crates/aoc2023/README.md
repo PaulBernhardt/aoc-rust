@@ -1,6 +1,6 @@
 # Advent of Code 2023
 
-Generated on Sat, 02 Dec 2023 04:44:59 +0000
+Generated on Mon, 04 Dec 2023 03:46:03 +0000
 
 ## Specifications
 
@@ -12,5 +12,6 @@ Generated on Sat, 02 Dec 2023 04:44:59 +0000
 
 | Problem | Part 1 Time | Part 2 Time | Runs |
 | ------- | ----------- | ----------- | ---- |
-| Day 1: Trebuchet?! | 105.9µs ± 22µs | 1.7ms ± 130.8µs | 25 |
+| Day 1: Trebuchet?! | 117.4µs ± 10.8µs | 2ms ± 208.3µs | 25 |
+| Day 2: Cube Conundrum | 167.7µs ± 114.7µs | 128.9µs ± 16.7µs | 25 |
 
